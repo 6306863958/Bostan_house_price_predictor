@@ -9,7 +9,9 @@ The dataset used is the Boston Housing Dataset, which contains features such as 
 # Data Preprocessing:
 
  Data cleaning : Handling missing values and outliers.
- Feature selection: Identifying relevant features for the model. 
+ 
+ Feature selection: Identifying relevant features for the model.
+ 
  Feature scaling: Normalizing or standardizing features to improve model performance.
  
 # Model Implementation:
