@@ -17,13 +17,18 @@ The dataset used is the Boston Housing Dataset, which contains features such as 
 # Model Implementation:
 
 Linear Regression: A basic approach that assumes a linear relationship between the input features and the target variable.
+
 DecisionTree Regression: A tree-based model that splits the data into subsets based on feature values.
+
 Bagging Regressor: An ensemble method that uses multiple base regressors (e.g., Decision Trees) to improve prediction accuracy.
+
 RandomForest Regressor: An advanced ensemble method that builds multiple decision trees and merges their results for better accuracy and robustness.
 
 # Model Evaluation:
 Split the dataset into training and testing sets.
+
 Train each regression model on the training set.
+
 Evaluate model performance using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²) on the testing set.
 
 # Results
